@@ -1,0 +1,9 @@
+../Core/Src/circular_buffer.cpp:8:1:circular_buffer::circular_buffer(size_t, U32)	24	static
+../Core/Src/circular_buffer.cpp:22:1:circular_buffer::circular_buffer(U32)	16	static
+../Core/Src/circular_buffer.cpp:36:1:circular_buffer::~circular_buffer()	16	static
+../Core/Src/circular_buffer.cpp:43:6:bool circular_buffer::push(const void*)	24	static
+../Core/Src/circular_buffer.cpp:57:6:bool circular_buffer::pop(void*)	24	static
+../Core/Src/circular_buffer.cpp:79:6:U32 circular_buffer::freeSpace()	24	static
+../Core/Src/circular_buffer.cpp:92:6:U32 circular_buffer::capacity()	16	static
+../Core/Src/circular_buffer.cpp:98:6:bool circular_buffer::is_empty()	24	static
+../Core/Src/circular_buffer.cpp:108:8:bool circular_buffer::is_full()	16	static
